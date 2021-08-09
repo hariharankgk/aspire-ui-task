@@ -4,6 +4,13 @@ import router from './router'
 import store from './store'
 import './registerServiceWorker'
 
+import { BootstrapVue, BootstrapVueIcons } from 'bootstrap-vue'
+
+import '@/assets/css/global.scss'
+
+Vue.use(BootstrapVue)
+Vue.use(BootstrapVueIcons)
+
 Vue.config.productionTip = false
 
 new Vue({
