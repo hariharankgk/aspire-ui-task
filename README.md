@@ -1,34 +1,9 @@
-# aspire-card-page
+# Aspire UI Task
 
-## Project setup
-```
-npm install
-```
+### Preview link
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://focused-euclid-35b167.netlify.app/
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* No plugin classes are used
+* written my own code
+* carousel and other actions not implemented (need to 1 or 2 days)
