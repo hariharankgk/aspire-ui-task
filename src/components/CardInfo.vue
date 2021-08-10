@@ -60,7 +60,15 @@ export default {
 
 <style lang="scss" scoped>
     .card {
+        position: relative;
         .card-visibility {
+            position: absolute;
+            top: -24px;
+            right: 10px;
+            @media (min-width: 768px) {
+                top: -35px;
+                right: 0;
+            }
             a {
                 font-size: 12px;
                 text-decoration: none;

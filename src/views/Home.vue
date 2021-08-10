@@ -177,6 +177,7 @@ export default {
         border: 1px solid #FCFCFC;
         box-shadow: 0 2px 12px #00000014;
         padding: 15px 25px;
+        padding-top:40px;
       }
     }
   }
